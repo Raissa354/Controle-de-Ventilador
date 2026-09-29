@@ -13,3 +13,5 @@
   - A classe `.selecionada` destaca a velocidade escolhida.
 
  **Em resumo:** o HTML monta o ventilador, o CSS deixa ele bonito e cria a animação, e o JavaScript faz os botões controlarem o ventilador e suas velocidades.
+
+<img width="1294" height="814" alt="Captura de tela 2026-09-29 165529" src="https://github.com/user-attachments/assets/78e26db3-90ab-4e47-b425-114380ae35c3" />
